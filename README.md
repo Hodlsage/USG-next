@@ -10,7 +10,7 @@ Getting Started
 From:
 https://testnet.bscscan.com/tx/0x7e89035a543921acccd4d335108c37e2f2ba9230f1d675eeca3e4eece2a8765b
 
-!!! USGx VERSION NNEXT !!! 
+!!! USGx VERSION NEXT !!! 
 
 https://testnet.bscscan.com/tx/0x77c3162f3680293bcd461c31fbcb1aabf1e72c1bab668044d1dbd6865faa8304
 
