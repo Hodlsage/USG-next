@@ -5,7 +5,12 @@ USGold Project Aftermath
 (back to top)
 
 Getting Started
+
+!!! USGD ON TESTNET !!!
 From:
+https://testnet.bscscan.com/tx/0x7e89035a543921acccd4d335108c37e2f2ba9230f1d675eeca3e4eece2a8765b
+
+
 0x39f08dd01197a9FD5F80b2fB1f2aD6d7acB06265
 Interacted With (To):
 [  0x5f369c5c4a44210e6132d66f723fba2b008052b3 Created ] 
